@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaafes_poc_custom_application=self.webpackChunkaafes_poc_custom_application||[]).push([[9765],{"./src/i18n/data/en.json":a=>{a.exports={}}}]);

@@ -1,0 +1,15 @@
+query CustomObjects($container: String!)  {
+  customObjects(container: $container){
+    count,
+    total,
+    results{
+      container,
+    key,
+    value,
+    id,
+    version,
+    createdAt,
+    lastModifiedAt
+    }
+  }
+}

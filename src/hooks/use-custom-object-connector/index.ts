@@ -1,0 +1,1 @@
+export {useCustomObjectsFetcher,useCreateObjectsFetcher,useDeleteObjectsFetcher} from './use-custom-object-connector'

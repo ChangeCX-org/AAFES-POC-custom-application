@@ -1,0 +1,5 @@
+i18n/data/*.json
+public
+.cache
+.yarn
+node_modules

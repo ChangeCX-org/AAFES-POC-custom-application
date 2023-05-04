@@ -1,0 +1,11 @@
+mutation CreateCustomObject($draft: CustomObjectDraft!) {
+  createOrUpdateCustomObject(draft:$draft){
+    container,
+    key,
+    value,
+    id,
+    version,
+    createdAt,
+    lastModifiedAt
+  }
+}

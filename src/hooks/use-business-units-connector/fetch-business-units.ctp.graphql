@@ -1,0 +1,10 @@
+query FetchBusinessUnits {
+  businessUnits {
+    offset,
+    count,
+    total,
+    results{
+      name, 
+    }
+  }
+}
